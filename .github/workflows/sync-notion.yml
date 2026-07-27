@@ -1,0 +1,42 @@
+name: Sync Notion → Site
+
+on:
+  schedule:
+    - cron: "0 21 * * *"      # 매일 06:00 KST (UTC 21:00)
+  workflow_dispatch:           # GitHub에서 버튼으로 즉시 실행
+  repository_dispatch:         # 노션 자동화/웹훅으로 즉시 실행
+    types: [notion-updated]
+
+permissions:
+  contents: write
+
+jobs:
+  sync:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+
+      - uses: actions/setup-node@v4
+        with:
+          node-version: "20"
+
+      - name: 노션에서 데이터 가져오기
+        env:
+          NOTION_TOKEN:       ${{ secrets.NOTION_TOKEN }}
+          NOTION_DB_RESEARCH: ${{ secrets.NOTION_DB_RESEARCH }}
+          NOTION_DB_TEACHING: ${{ secrets.NOTION_DB_TEACHING }}
+          NOTION_DB_PRESS:    ${{ secrets.NOTION_DB_PRESS }}
+          NOTION_DB_SITE:     ${{ secrets.NOTION_DB_SITE }}
+        run: node scripts/sync-notion.mjs
+
+      - name: 변경사항이 있으면 커밋
+        run: |
+          git config user.name  "notion-sync"
+          git config user.email "actions@github.com"
+          git add data/site-data.json data/site-data.js
+          if git diff --staged --quiet; then
+            echo "변경 없음 — 커밋 생략"
+          else
+            git commit -m "chore: 노션 실적 동기화 ($(date +%Y-%m-%d))"
+            git push
+          fi
