@@ -1,0 +1,815 @@
+window.SITE_DATA = {
+  "updated": "2026-07-12",
+  "counts": {
+    "intl": 2,
+    "dom": 5,
+    "conf": 10,
+    "award": 2
+  },
+  "research": [
+    {
+      "title": "제주도내 구직단념청년의 구직활동과정 탐색 질적연구: 청년도전지원사업 참여 청년을 중심으로",
+      "type": "국내학술지",
+      "year": "2026",
+      "detail": "교육공동체 연구와 실천, 8(2), 469–493.",
+      "authors": "하지은, 백지연",
+      "link": "https://doi.org/10.23108/decrc.2026.8.2.469",
+      "tags": [
+        "KCI",
+        "제1저자"
+      ],
+      "show": true
+    },
+    {
+      "title": "AI 시대 경력개발 연구동향과 전략: 텍스트 마이닝과 체계적 문헌고찰",
+      "type": "국내학술지",
+      "year": "2025",
+      "detail": "한국IT서비스학회지, 24(5), 115–135.",
+      "authors": "하지은, 윤혜정",
+      "link": "https://doi.org/10.9716/KITS.2025.24.5.115",
+      "tags": [
+        "KCI",
+        "제1저자",
+        "융복합연구 장학"
+      ],
+      "show": true
+    },
+    {
+      "title": "Community college students' use of ChatGPT for computational problem-solving tasks: Perceptions and interaction patterns",
+      "type": "국제학술지",
+      "year": "2025",
+      "detail": "Educational Technology International, 26(2), 393–421.",
+      "authors": "Ha, J. E., Kim, D., Tae, J., & So, H.",
+      "link": "https://doi.org/10.23095/ETI.2025.26.2.393",
+      "tags": [
+        "International",
+        "제1저자"
+      ],
+      "show": true
+    },
+    {
+      "title": "Exploring middle-aged women's perceptions of generative AI utilization: A post-session perspective",
+      "type": "국제학술지",
+      "year": "2025",
+      "detail": "Educational Technology International, 26(2), 289–321.",
+      "authors": "Ha, J. E., Chung, J., & Lee, S.",
+      "link": "https://doi.org/10.23095/ETI.2025.26.2.289",
+      "tags": [
+        "International",
+        "제1저자"
+      ],
+      "show": true
+    },
+    {
+      "title": "학사학위 전공심화과정 학습자 특성에 따른 정의적 스캐폴딩 실행연구",
+      "type": "국내학술지",
+      "year": "2024",
+      "detail": "학습자중심교과교육연구, 24(11), 305–326.",
+      "authors": "하지은, 조희수, 정재삼",
+      "link": "https://doi.org/10.22251/jlcci.2024.24.11.305",
+      "tags": [
+        "KCI",
+        "제1저자"
+      ],
+      "show": true
+    },
+    {
+      "title": "인공지능 시대 HRD를 위한 메타버스 활용: 학습 촉진과 퍼포먼스 향상을 위한 시사점",
+      "type": "국내학술지",
+      "year": "2023",
+      "detail": "기업교육과 인재연구, 25(3), 65–97.",
+      "authors": "하지은, 정재삼",
+      "link": "https://doi.org/10.46260/KSLP.25.3.3",
+      "tags": [
+        "KCI",
+        "제1저자"
+      ],
+      "show": true
+    },
+    {
+      "title": "메타버스 사용지속의향에 영향을 미치는 사용자의 개인적 특성 요인들 탐색 및 상호작용성의 조절효과",
+      "type": "국내학술지",
+      "year": "2023",
+      "detail": "교육공학연구, 39(3), 787–814.",
+      "authors": "하지은, 정재삼",
+      "link": "http://dx.doi.org/10.17232/KSET.39.3.787",
+      "tags": [
+        "KCI",
+        "제1저자"
+      ],
+      "show": true
+    },
+    {
+      "title": "메타버스 플랫폼이 교육적 맥락에서 사용된 경험연구 문헌분석",
+      "type": "국내학술지",
+      "year": "2022",
+      "detail": "학습자중심교과교육연구, 22(23), 301–305.",
+      "authors": "조희수, 하지은, 허열",
+      "link": "https://doi.org/10.22251/jlcci.2022.22.23.301",
+      "tags": [
+        "KCI",
+        "공동저자"
+      ],
+      "show": true
+    },
+    {
+      "title": "성인학습자의 생성형 AI 활용 역량 프레임워크 및 척도 개발",
+      "type": "학위논문",
+      "year": "2026",
+      "detail": "박사학위논문 · 이화여자대학교",
+      "authors": "하지은",
+      "link": "",
+      "tags": [
+        "Ph.D.",
+        "5차원 13요인 54문항",
+        "Bifactor"
+      ],
+      "show": true
+    },
+    {
+      "title": "메타버스 사용지속의향에 영향을 미치는 사용자의 개인적 특성 요인들과 상호작용성의 조절효과: 교육참여경험 유무를 중심으로",
+      "type": "학위논문",
+      "year": "2023",
+      "detail": "석사학위논문 · 이화여자대학교 교육대학원",
+      "authors": "하지은",
+      "link": "",
+      "tags": [
+        "M.S."
+      ],
+      "show": true
+    },
+    {
+      "title": "Exploring college students' prompt engineering when completing different tasks in Korea",
+      "type": "국제학회",
+      "year": "2025",
+      "detail": "AECT 2025 · Las Vegas, USA",
+      "authors": "Huh, Y., Ha, J. E., & Jo, H.",
+      "link": "",
+      "tags": [
+        "Paper"
+      ],
+      "show": true
+    },
+    {
+      "title": "Interaction Patterns in Community College Students' Use of ChatGPT for Computational Problem-Solving Tasks",
+      "type": "국제학회",
+      "year": "2025",
+      "detail": "ISLS 2025 · Helsinki, Finland",
+      "authors": "Ha, J. E., Kim, S., Kim, D., & Tae, J.",
+      "link": "",
+      "tags": [
+        "Poster"
+      ],
+      "show": true
+    },
+    {
+      "title": "Exploring Middle-Aged Women's Post-Session Perceptions of Generative AI Utilization",
+      "type": "국제학회",
+      "year": "2025",
+      "detail": "IEEE ECIEB 2025 · New Taipei, Taiwan",
+      "authors": "Ha, J. E., Lee, S., & Chung, J.",
+      "link": "",
+      "tags": [
+        "Paper"
+      ],
+      "show": true
+    },
+    {
+      "title": "Development and impact exploration of a prompt engineering education program for middle-aged women pursuing career transition",
+      "type": "국제학회",
+      "year": "2024",
+      "detail": "ICoME 2024 · Tokyo, Japan",
+      "authors": "Ha, J. E., Lee, S., & Chung, J.",
+      "link": "",
+      "tags": [
+        "Young Scholar Award"
+      ],
+      "show": true
+    },
+    {
+      "title": "전문대학생 프롬프트 엔지니어링 수업에서 스캐폴딩 전략 탐색",
+      "type": "국내학회",
+      "year": "2024",
+      "detail": "한국교육공학회 춘계학술대회",
+      "authors": "하지은, 이세영, 정재삼",
+      "link": "",
+      "tags": [
+        "구두 발표"
+      ],
+      "show": true
+    },
+    {
+      "title": "성인 학습자를 위한 디지털 역량 측정 요소 탐색",
+      "type": "국내학회",
+      "year": "2024",
+      "detail": "한국교육공학회 춘계학술대회",
+      "authors": "이세영, 하지은, 정재삼",
+      "link": "",
+      "tags": [
+        "구두 발표"
+      ],
+      "show": true
+    },
+    {
+      "title": "인공지능 시대 HRD를 위한 메타버스 활용: 학습 촉진과 퍼포먼스 향상을 위한 시사점",
+      "type": "국내학회",
+      "year": "2023",
+      "detail": "한국기업교육학회 춘계학술대회",
+      "authors": "하지은, 정재삼",
+      "link": "",
+      "tags": [
+        "구두 발표"
+      ],
+      "show": true
+    },
+    {
+      "title": "메타버스 사용지속의향에 영향을 미치는 사용자의 개인적 특성 요인들 탐색 및 상호작용성의 조절효과",
+      "type": "국내학회",
+      "year": "2023",
+      "detail": "한국교육공학회 춘계학술대회",
+      "authors": "하지은, 정재삼",
+      "link": "",
+      "tags": [
+        "구두 발표"
+      ],
+      "show": true
+    },
+    {
+      "title": "LMS 플랫폼의 상호작용 교수학습 요소 탐색: 구글 클래스룸을 중심으로",
+      "type": "국내학회",
+      "year": "2023",
+      "detail": "한국교육공학회 춘계학술대회",
+      "authors": "이세영, 하지은, 정재삼",
+      "link": "",
+      "tags": [
+        "구두 발표"
+      ],
+      "show": true
+    },
+    {
+      "title": "A Systematic Literature Review of the Use of Metaverse Platform in Educational Contexts in Korea",
+      "type": "국제학회",
+      "year": "2023",
+      "detail": "AECT 100th Convention · Orlando, USA",
+      "authors": "Jo, H., Ha, J., & Huh, Y.",
+      "link": "",
+      "tags": [
+        "Paper"
+      ],
+      "show": true
+    },
+    {
+      "title": "Young Scholar Award",
+      "type": "수상",
+      "year": "2024",
+      "detail": "ICoME 2024 · Tokyo, Japan",
+      "authors": "",
+      "link": "",
+      "tags": [
+        "국제학회"
+      ],
+      "show": true
+    },
+    {
+      "title": "이화여자대학교 대학원 융복합연구 장학생 선정",
+      "type": "수상",
+      "year": "2025",
+      "detail": "이화여자대학교 대학원",
+      "authors": "",
+      "link": "",
+      "tags": [
+        "장학"
+      ],
+      "show": true
+    },
+    {
+      "title": "하버드의 달력은 열흘 빠르다",
+      "type": "저서",
+      "year": "2023",
+      "detail": "아무리 바빠도 쫓기지 않는 하버드식 일처리 비법",
+      "authors": "하지은",
+      "link": "https://search.shopping.naver.com/book/catalog/41388848631",
+      "tags": [
+        "단독 저서"
+      ],
+      "show": true
+    },
+    {
+      "title": "성과로 이어지는 일습관",
+      "type": "저서",
+      "year": "2022",
+      "detail": "신뢰·여유·소통·전문성 — 일 잘하는 사람들의 작은 습관",
+      "authors": "하지은",
+      "link": "https://search.shopping.naver.com/book/catalog/32438184079",
+      "tags": [
+        "단독 저서"
+      ],
+      "show": true
+    }
+  ],
+  "teaching": [
+    {
+      "course": "신제품 전략과 디자인씽킹",
+      "org": "제주관광대학교",
+      "term": "2026-1",
+      "kind": "전공",
+      "target": "창업마케팅학과",
+      "note": "디자인씽킹 5단계 프로젝트 · 한국어·영어 병행",
+      "tags": [
+        "이중언어"
+      ],
+      "show": true
+    },
+    {
+      "course": "세계경제와 무역이론",
+      "org": "제주관광대학교",
+      "term": "2026-1",
+      "kind": "전공",
+      "target": "다국적 학습자",
+      "note": "비교우위 · 요소부존 · GVC",
+      "tags": [
+        "이중언어"
+      ],
+      "show": true
+    },
+    {
+      "course": "진로와 창업 성공전략",
+      "org": "제주관광대학교",
+      "term": "2025-2",
+      "kind": "교양",
+      "target": "전학년",
+      "note": "진로 설계와 창업 실행 연계",
+      "tags": [],
+      "show": true
+    },
+    {
+      "course": "글로벌 창업",
+      "org": "대정여자고등학교",
+      "term": "2026-2",
+      "kind": "고교",
+      "target": "글로벌 창업 학급",
+      "note": "14주 교육과정 설계 및 워크북 개발",
+      "tags": [
+        "교육과정 개발"
+      ],
+      "show": true
+    },
+    {
+      "course": "여성 대상 AI 리터러시 프로그램",
+      "org": "설문대여성문화센터",
+      "term": "2026",
+      "kind": "평생교육",
+      "target": "성인 여성 학습자",
+      "note": "프로그램 설계 및 강의",
+      "tags": [],
+      "show": true
+    },
+    {
+      "course": "제주내일 커리어디자인",
+      "org": "외부 기관",
+      "term": "2026",
+      "kind": "평생교육",
+      "target": "성인 학습자",
+      "note": "주 1회 종일 과정",
+      "tags": [],
+      "show": true
+    }
+  ],
+  "press": [
+    {
+      "title": "나의 색을 찾아서",
+      "outlet": "KBS 제주 · 콘텐츠안테나",
+      "year": "2021",
+      "when": "2021 August",
+      "link": "https://youtu.be/BM3dfs3VMM4",
+      "show": true
+    },
+    {
+      "title": "인성전문가 “부모, 자녀 인격체로 존중해야”",
+      "outlet": "천지일보 (NewsCJ)",
+      "year": "2021",
+      "when": "2021 January",
+      "link": "http://www.newscj.com/news/articleView.html?idxno=818709",
+      "show": true
+    },
+    {
+      "title": "[생생이슈] 집에서 즐기는 신년회",
+      "outlet": "KBS2 생생정보 1224회",
+      "year": "2021",
+      "when": "2021 January",
+      "link": "http://vod.kbs.co.kr/index.html?program_id=PS-2020217486-01-000",
+      "show": true
+    },
+    {
+      "title": "COVID-19 phenomenon: Year-end parties go online",
+      "outlet": "The Korea Herald",
+      "year": "2020",
+      "when": "2020 December",
+      "link": "http://news.koreaherald.com/view.php?md=20201228094721_BL&ud=20201215000313",
+      "show": true
+    },
+    {
+      "title": "[영상K] 언택트에서 온택트로",
+      "outlet": "KBS 뉴스 제주",
+      "year": "2020",
+      "when": "2020 December",
+      "link": "https://youtu.be/KMIzfzAd0b8",
+      "show": true
+    },
+    {
+      "title": "원하는 삶, 성공적인 솔루션으로 커넥트",
+      "outlet": "Issue Maker ‘The People’",
+      "year": "2019",
+      "when": "2019 December",
+      "link": "http://www.issuemaker.kr/news/articleView.html?idxno=29477",
+      "show": true
+    }
+  ],
+  "site": [
+    {
+      "key": "직함",
+      "kind": "소개문",
+      "order": 1,
+      "ko": "Jieun Ha — 조교수 · 학과장, 제주관광대학교 창업마케팅학과",
+      "en": "Assistant Professor & Department Head, Entrepreneurship & Marketing, Jeju Tourism University",
+      "period": "",
+      "desc": "",
+      "link": "",
+      "show": true
+    },
+    {
+      "key": "한 줄 소개",
+      "kind": "소개문",
+      "order": 2,
+      "ko": "<b>자기이해를 바탕으로 생각을 현실로 이루는 능동적인 삶</b>을 연구합니다. 급변하는 사회 속에서 고등교육과 성인학습을 무대로, 테크놀로지 기반 학습 환경에서 <b>자기주도적 학습을 가능하게 하는 학습 지원과 역량</b>은 무엇인지 묻고, 그 답을 경력 관리와 라이프 디자인으로 이어갑니다.",
+      "en": "I study the <b>active life — turning what you imagine into what you actually do</b>, grounded in self-understanding. In higher education and adult learning, I ask what <b>support and competencies make self-directed learning possible</b> in technology-rich environments, and carry those answers into career management and life design.",
+      "period": "",
+      "desc": "",
+      "link": "",
+      "show": true
+    },
+    {
+      "key": "활동",
+      "kind": "소개문",
+      "order": 3,
+      "ko": "한국비서사무협회 이사 · Google 공인인증 트레이너",
+      "en": "Board Member, Korea Secretarial Association · Google Certified Trainer",
+      "period": "",
+      "desc": "",
+      "link": "",
+      "show": true
+    },
+    {
+      "key": "약력 1문단",
+      "kind": "소개문",
+      "order": 4,
+      "ko": "제주관광대학교 창업마케팅학과 조교수이자 학과장으로, 성인학습자와 다국적 학습자를 대상으로 창업·마케팅과 AI 리터러시를 가르치고 있습니다.",
+      "en": "I am an Assistant Professor and Department Head of Entrepreneurship & Marketing at Jeju Tourism University, teaching entrepreneurship, marketing, and AI literacy to adult and international learners.",
+      "period": "",
+      "desc": "",
+      "link": "",
+      "show": true
+    },
+    {
+      "key": "약력 2문단",
+      "kind": "소개문",
+      "order": 5,
+      "ko": "이화여자대학교에서 교육공학 박사학위를 받았고, 학위논문에서 성인학습자의 생성형 AI 활용 역량 프레임워크와 측정 척도를 개발했습니다. 그 이전에는 메타버스 기반 학습, 학습자 특성에 따른 스캐폴딩, AI 시대의 경력개발을 연구해 왔습니다.",
+      "en": "I hold a Ph.D. in Educational Technology from Ewha Womans University, where my dissertation developed a generative AI competency framework and scale for adult learners. Earlier work examined metaverse-based learning, scaffolding, and career development in the age of AI.",
+      "period": "",
+      "desc": "",
+      "link": "",
+      "show": true
+    },
+    {
+      "key": "약력 3문단",
+      "kind": "소개문",
+      "order": 6,
+      "ko": "컴퓨터공학 학사에서 출발해 기업 교육 현장에서 사내강사로 일했고, 지금은 자기이해에서 시작하는 진로·경력 설계를 연구와 강의로 함께 다룹니다.",
+      "en": "I began in computer engineering, worked as a corporate trainer, and now bring both into research and teaching on career and life design that starts from self-understanding.",
+      "period": "",
+      "desc": "",
+      "link": "",
+      "show": true
+    },
+    {
+      "key": "강의 안내",
+      "kind": "소개문",
+      "order": 7,
+      "ko": "한국어·영어 병행 자료를 기본으로 하고, 학습자가 사례를 먼저 겪은 뒤 개념을 세우는 귀납적 설계를 선호합니다.",
+      "en": "Materials are prepared in both Korean and English, and I favor an inductive design in which learners meet the case before the concept.",
+      "period": "",
+      "desc": "",
+      "link": "",
+      "show": true
+    },
+    {
+      "key": "문의 안내",
+      "kind": "소개문",
+      "order": 8,
+      "ko": "공동연구, 초청 강연, 척도 사용 문의를 환영합니다.",
+      "en": "I welcome inquiries about collaboration, invited talks, and use of the scale.",
+      "period": "",
+      "desc": "",
+      "link": "",
+      "show": true
+    },
+    {
+      "key": "자기주도적 학습",
+      "kind": "관심분야",
+      "order": 1,
+      "ko": "<b>자기주도적 학습</b>과 학습 지원",
+      "en": "<b>Self-directed learning</b> & learner support",
+      "period": "",
+      "desc": "",
+      "link": "",
+      "show": true
+    },
+    {
+      "key": "생성형 AI 역량",
+      "kind": "관심분야",
+      "order": 2,
+      "ko": "<b>생성형 AI 활용 역량</b> 측정 · 타당화",
+      "en": "<b>Generative AI competency</b> measurement",
+      "period": "",
+      "desc": "",
+      "link": "",
+      "show": true
+    },
+    {
+      "key": "성인학습",
+      "kind": "관심분야",
+      "order": 3,
+      "ko": "성인 · 평생학습",
+      "en": "Adult & lifelong learning",
+      "period": "",
+      "desc": "",
+      "link": "",
+      "show": true
+    },
+    {
+      "key": "경력·라이프디자인",
+      "kind": "관심분야",
+      "order": 4,
+      "ko": "경력 관리 · 라이프 디자인",
+      "en": "Career management & life design",
+      "period": "",
+      "desc": "",
+      "link": "",
+      "show": true
+    },
+    {
+      "key": "스캐폴딩",
+      "kind": "관심분야",
+      "order": 5,
+      "ko": "스캐폴딩",
+      "en": "Scaffolding",
+      "period": "",
+      "desc": "",
+      "link": "",
+      "show": true
+    },
+    {
+      "key": "테크놀로지 기반 학습환경",
+      "kind": "관심분야",
+      "order": 6,
+      "ko": "테크놀로지 기반 학습환경",
+      "en": "Technology-rich learning environments",
+      "period": "",
+      "desc": "",
+      "link": "",
+      "show": true
+    },
+    {
+      "key": "컬러테라피",
+      "kind": "관심분야",
+      "order": 7,
+      "ko": "컬러테라피",
+      "en": "Color therapy",
+      "period": "",
+      "desc": "",
+      "link": "",
+      "show": true
+    },
+    {
+      "key": "박사",
+      "kind": "학력",
+      "order": 1,
+      "ko": "교육공학",
+      "en": "Educational Technology",
+      "period": "Ph.D.",
+      "desc": "이화여자대학교",
+      "link": "",
+      "show": true
+    },
+    {
+      "key": "석사",
+      "kind": "학력",
+      "order": 2,
+      "ko": "교육공학 · HRD",
+      "en": "Educational Technology · HRD",
+      "period": "M.S.",
+      "desc": "이화여자대학교 교육대학원",
+      "link": "",
+      "show": true
+    },
+    {
+      "key": "학사",
+      "kind": "학력",
+      "order": 3,
+      "ko": "컴퓨터공학",
+      "en": "Computer Engineering",
+      "period": "B.S.",
+      "desc": "",
+      "link": "",
+      "show": true
+    },
+    {
+      "key": "제주관광대 조교수",
+      "kind": "경력",
+      "order": 1,
+      "ko": "조교수 · 학과장",
+      "en": "Assistant Professor & Head",
+      "period": "2026~",
+      "desc": "제주관광대학교 창업마케팅학과",
+      "link": "",
+      "show": true
+    },
+    {
+      "key": "제주관광대 겸임교수",
+      "kind": "경력",
+      "order": 2,
+      "ko": "겸임교수",
+      "en": "Adjunct Professor",
+      "period": "2025~2026",
+      "desc": "제주관광대학교",
+      "link": "",
+      "show": true
+    },
+    {
+      "key": "용인예술과학대 겸임교수",
+      "kind": "경력",
+      "order": 3,
+      "ko": "겸임교수",
+      "en": "Adjunct Professor",
+      "period": "2019~2026",
+      "desc": "용인예술과학대학교",
+      "link": "",
+      "show": true
+    },
+    {
+      "key": "Be Connected 대표",
+      "kind": "경력",
+      "order": 4,
+      "ko": "대표",
+      "en": "CEO",
+      "period": "2017~2026",
+      "desc": "Be Connected",
+      "link": "",
+      "show": true
+    },
+    {
+      "key": "Email",
+      "kind": "문의링크",
+      "order": 1,
+      "ko": "Email",
+      "en": "Email",
+      "period": "",
+      "desc": "",
+      "link": "mailto:janeha0209@gmail.com",
+      "show": true
+    },
+    {
+      "key": "LinkedIn",
+      "kind": "문의링크",
+      "order": 2,
+      "ko": "LinkedIn",
+      "en": "LinkedIn",
+      "period": "",
+      "desc": "",
+      "link": "https://www.linkedin.com/in/jeha0209/",
+      "show": true
+    },
+    {
+      "key": "Brunch",
+      "kind": "문의링크",
+      "order": 3,
+      "ko": "Brunch",
+      "en": "Brunch",
+      "period": "",
+      "desc": "",
+      "link": "https://brunch.co.kr/@jieunha",
+      "show": true
+    },
+    {
+      "key": "네이버 블로그",
+      "kind": "문의링크",
+      "order": 4,
+      "ko": "네이버 블로그",
+      "en": "Naver Blog",
+      "period": "",
+      "desc": "",
+      "link": "https://blog.naver.com/beconnected_kr",
+      "show": true
+    },
+    {
+      "key": "Instagram",
+      "kind": "문의링크",
+      "order": 5,
+      "ko": "Instagram",
+      "en": "Instagram",
+      "period": "",
+      "desc": "",
+      "link": "https://www.instagram.com/happydream_jieun/",
+      "show": true
+    },
+    {
+      "key": "Be Connected",
+      "kind": "문의링크",
+      "order": 6,
+      "ko": "Be Connected",
+      "en": "Be Connected",
+      "period": "",
+      "desc": "",
+      "link": "http://www.beconnected.co.kr/",
+      "show": true
+    },
+    {
+      "key": "AI 역량 진단",
+      "kind": "진단도구",
+      "order": 1,
+      "ko": "타당화된 척도로 자신의 생성형 AI 활용 역량을 진단하고 차원별 프로파일을 확인합니다.",
+      "en": "Assess your generative AI competency with the validated scale and see your profile across dimensions.",
+      "period": "",
+      "desc": "",
+      "link": "",
+      "show": false
+    },
+    {
+      "key": "Google Scholar",
+      "kind": "Scholar",
+      "order": 1,
+      "ko": "Google Scholar",
+      "en": "Google Scholar",
+      "period": "",
+      "desc": "",
+      "link": "https://scholar.google.com/citations?user=XjgKCpkAAAAJ&hl=ko",
+      "show": true
+    },
+    {
+      "key": "연구, 분야, 전공, research, interest, 자기주도",
+      "kind": "챗봇",
+      "order": 1,
+      "ko": "테크놀로지 기반 학습환경에서 <b>자기주도적 학습을 가능하게 하는 학습 지원과 역량</b>이 핵심 주제입니다. 생성형 AI 활용 역량 측정, 메타버스 기반 학습, 스캐폴딩, 경력 관리와 라이프 디자인을 연구합니다.",
+      "en": "My core question is what <b>support and competencies enable self-directed learning</b> in technology-rich environments — including generative AI competency measurement, metaverse-based learning, scaffolding, and career and life design.",
+      "period": "",
+      "desc": "연구실적 보기",
+      "link": "publications.html",
+      "show": true
+    },
+    {
+      "key": "학위, 박사, 이화, 학력, phd, 경력, 약력, 누구, 소개, profile",
+      "kind": "챗봇",
+      "order": 2,
+      "ko": "이화여자대학교 교육공학 <b>박사</b>이며, 현재 <b>제주관광대학교 창업마케팅학과 조교수·학과장</b>입니다.",
+      "en": "I hold a <b>Ph.D. in Educational Technology</b> from Ewha Womans University and serve as Assistant Professor and Department Head at Jeju Tourism University.",
+      "period": "",
+      "desc": "약력 보기",
+      "link": "#about",
+      "show": true
+    },
+    {
+      "key": "메타버스, metaverse",
+      "kind": "챗봇",
+      "order": 3,
+      "ko": "메타버스 사용지속의향의 개인적 특성 요인과 상호작용성의 조절효과를 다뤘으며, HRD 맥락의 활용 시사점도 발표했습니다.",
+      "en": "I examined individual factors in continued metaverse use and the moderating role of interactivity, and its implications for HRD.",
+      "period": "",
+      "desc": "관련 논문",
+      "link": "publications.html",
+      "show": true
+    },
+    {
+      "key": "경력, 라이프, career, life design, 진로",
+      "kind": "챗봇",
+      "order": 4,
+      "ko": "자기이해에서 출발하는 경력 관리와 라이프 디자인을 연구하고, 성인 대상 진로 설계 과정으로 운영합니다.",
+      "en": "I study career management and life design that begin with self-understanding, and run career design programs for adult learners.",
+      "period": "",
+      "desc": "강의실적 보기",
+      "link": "teaching.html",
+      "show": true
+    },
+    {
+      "key": "컬러, color, 테라피, 심리",
+      "kind": "챗봇",
+      "order": 5,
+      "ko": "컬러를 심리적 건강과 학습, 개인 성장을 돕는 도구로 보고 프로그램을 개발합니다.",
+      "en": "I use color to support psychological wellbeing, learning, and personal growth.",
+      "period": "",
+      "desc": "문의하기",
+      "link": "#contact",
+      "show": true
+    }
+  ]
+};
