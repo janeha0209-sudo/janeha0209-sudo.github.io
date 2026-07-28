@@ -310,6 +310,18 @@
       "show": true
     },
     {
+      "course": "경영학원론",
+      "org": "제주관광대학교",
+      "term": "2026-1",
+      "kind": "전공",
+      "target": "1학년",
+      "note": "",
+      "tags": [
+        "English Track"
+      ],
+      "show": true
+    },
+    {
       "course": "세계경제와 무역이론",
       "org": "제주관광대학교",
       "term": "2026-1",
@@ -322,7 +334,7 @@
       "show": true
     },
     {
-      "course": "신제품 전략과 디자인씽킹",
+      "course": "신제품 전략기획",
       "org": "제주관광대학교",
       "term": "2026-1",
       "kind": "전공",
@@ -394,6 +406,43 @@
       "show": true
     },
     {
+      "course": "챗GPT실무",
+      "org": "용인예술과학대학교",
+      "term": "2025-2",
+      "kind": "전공",
+      "target": "3학년",
+      "note": "",
+      "tags": [
+        "이중언어"
+      ],
+      "show": true
+    },
+    {
+      "course": "취업심화면접실습",
+      "org": "용인예술과학대학교",
+      "term": "2025-2",
+      "kind": "전공",
+      "target": "4학년",
+      "note": "",
+      "tags": [
+        "이중언어"
+      ],
+      "show": true
+    },
+    {
+      "course": "신상품 및 신사업 마케팅",
+      "org": "제주관광대학교",
+      "term": "2025-2",
+      "kind": "전공",
+      "target": "1학년",
+      "note": "",
+      "tags": [
+        "English Track",
+        "이중언어"
+      ],
+      "show": true
+    },
+    {
       "course": "설문대여성문화센터 강의",
       "org": "설문대여성문화센터",
       "term": "2023",
@@ -460,6 +509,16 @@
       "kind": "특강",
       "target": "학부모",
       "note": "학교(미상세) · 2021.12 · 총 2회 · 캐린더 백필, 상세 확인 요망",
+      "tags": [],
+      "show": true
+    },
+    {
+      "course": "투자시뮬레이션",
+      "org": "제주관광대학교",
+      "term": "",
+      "kind": "전공",
+      "target": "1학년",
+      "note": "",
       "tags": [],
       "show": true
     }
