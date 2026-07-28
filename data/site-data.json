@@ -4,7 +4,7 @@
     "intl": 2,
     "dom": 6,
     "conf": 10,
-    "award": 2
+    "award": 3
   },
   "research": [
     {
@@ -115,6 +115,16 @@
       "tags": [
         "Paper"
       ],
+      "show": true
+    },
+    {
+      "title": "대학원생 벤처투자 경진대회(UVICK) 3위",
+      "type": "수상",
+      "year": "2024",
+      "detail": "대학원생 벤처투자 경진대회(UVICK) 3위",
+      "authors": "",
+      "link": "",
+      "tags": [],
       "show": true
     },
     {
@@ -310,6 +320,16 @@
       "show": true
     },
     {
+      "course": "창의적 디자인 사고와 비즈니스 모델",
+      "org": "대정여자고등학교",
+      "term": "2026-1",
+      "kind": "고교",
+      "target": "고등학생",
+      "note": "자율형 공립고 2.0 특색과목 · 2026 운영 중",
+      "tags": [],
+      "show": true
+    },
+    {
       "course": "경영학원론",
       "org": "제주관광대학교",
       "term": "2026-1",
@@ -443,12 +463,72 @@
       "show": true
     },
     {
+      "course": "챗GPT실무, 관광정보시스템실무, 사무환경분석, 문서관리실무, 고급IT실무",
+      "org": "용인예술과학대학교",
+      "term": "2024-2",
+      "kind": "전공",
+      "target": "빅데이터경영과",
+      "note": "겸임교수 · 증빙: 강의경력증명서",
+      "tags": [],
+      "show": true
+    },
+    {
+      "course": "고급IT활용, 컴퓨터활용, 빅데이터사례분석, 서비스경영",
+      "org": "용인예술과학대학교",
+      "term": "2024-1",
+      "kind": "전공",
+      "target": "빅데이터경영과",
+      "note": "겸임교수 · 증빙: 강의경력증명서",
+      "tags": [],
+      "show": true
+    },
+    {
+      "course": "문서작성실습",
+      "org": "용인예술과학대학교",
+      "term": "2023-2",
+      "kind": "전공",
+      "target": "빅데이터경영과",
+      "note": "겸임교수 · 증빙: 강의경력증명서",
+      "tags": [],
+      "show": true
+    },
+    {
+      "course": "커뮤니케이션, 문서작성실습, 문서기획및관리",
+      "org": "용인예술과학대학교",
+      "term": "2023-1",
+      "kind": "전공",
+      "target": "빅데이터경영과",
+      "note": "겸임교수 · 증빙: 강의경력증명서",
+      "tags": [],
+      "show": true
+    },
+    {
       "course": "설문대여성문화센터 강의",
       "org": "설문대여성문화센터",
       "term": "2023",
       "kind": "특강",
       "target": "성인 학습자",
       "note": "2023.01–02 · 교보재 제작 포함 · 캐린더 백필, 상세 확인 요망",
+      "tags": [],
+      "show": true
+    },
+    {
+      "course": "문서작성실습, 현직비서세미나, 회의출장실무",
+      "org": "용인예술과학대학교",
+      "term": "2022-2",
+      "kind": "전공",
+      "target": "빅데이터경영과",
+      "note": "겸임교수 · 증빙: 강의경력증명서",
+      "tags": [],
+      "show": true
+    },
+    {
+      "course": "프리젠테이션실무, 취업면접세미나, 고급IT활용",
+      "org": "용인예술과학대학교",
+      "term": "2022-1",
+      "kind": "전공",
+      "target": "빅데이터경영과",
+      "note": "겸임교수 · 증빙: 강의경력증명서",
       "tags": [],
       "show": true
     },
@@ -483,6 +563,26 @@
       "show": true
     },
     {
+      "course": "사무관리실무",
+      "org": "용인예술과학대학교",
+      "term": "2021-2",
+      "kind": "전공",
+      "target": "빅데이터경영과",
+      "note": "겸임교수 · 증빙: 강의경력증명서",
+      "tags": [],
+      "show": true
+    },
+    {
+      "course": "경영관리실무, 현직비서세미나",
+      "org": "용인예술과학대학교",
+      "term": "2021-1",
+      "kind": "전공",
+      "target": "빅데이터경영과",
+      "note": "겸임교수 · 증빙: 강의경력증명서",
+      "tags": [],
+      "show": true
+    },
+    {
       "course": "동국대학교 특강",
       "org": "외부 기관",
       "term": "2021",
@@ -509,6 +609,46 @@
       "kind": "특강",
       "target": "학부모",
       "note": "학교(미상세) · 2021.12 · 총 2회 · 캐린더 백필, 상세 확인 요망",
+      "tags": [],
+      "show": true
+    },
+    {
+      "course": "문서관리실무",
+      "org": "용인예술과학대학교",
+      "term": "2020-2",
+      "kind": "전공",
+      "target": "빅데이터경영과",
+      "note": "겸임교수 · 증빙: 강의경력증명서",
+      "tags": [],
+      "show": true
+    },
+    {
+      "course": "대인관계론",
+      "org": "용인예술과학대학교",
+      "term": "2020-1",
+      "kind": "전공",
+      "target": "빅데이터경영과",
+      "note": "겸임교수 · 증빙: 강의경력증명서",
+      "tags": [],
+      "show": true
+    },
+    {
+      "course": "고급IT활용",
+      "org": "용인예술과학대학교",
+      "term": "2019-2",
+      "kind": "전공",
+      "target": "빅데이터경영과",
+      "note": "겸임교수 · 증빙: 강의경력증명서",
+      "tags": [],
+      "show": true
+    },
+    {
+      "course": "컴퓨터활용",
+      "org": "용인예술과학대학교",
+      "term": "2019-1",
+      "kind": "전공",
+      "target": "빅데이터경영과",
+      "note": "겸임교수 · 증빙: 강의경력증명서",
       "tags": [],
       "show": true
     },
@@ -850,6 +990,17 @@
       "show": true
     },
     {
+      "key": "제주 더큰내일센터 운영위원",
+      "kind": "경력",
+      "order": 5,
+      "ko": "운영위원회 위원",
+      "en": "Steering Committee Member",
+      "period": "2026~2028",
+      "desc": "제주 더큰내일센터",
+      "link": "",
+      "show": true
+    },
+    {
       "key": "Instagram",
       "kind": "문의링크",
       "order": 5,
@@ -890,6 +1041,17 @@
       "en": "I hold a Ph.D. in Educational Technology from Ewha Womans University, where my dissertation developed a generative AI competency framework and scale for adult learners. Earlier work examined metaverse-based learning, scaffolding, and career development in the age of AI.",
       "period": "",
       "desc": "",
+      "link": "",
+      "show": true
+    },
+    {
+      "key": "대정여고 AI창업캐프 심사위원",
+      "kind": "경력",
+      "order": 6,
+      "ko": "AI창업캐프 심사위원",
+      "en": "AI Startup Camp Judge",
+      "period": "2026",
+      "desc": "대정여자고등학교",
       "link": "",
       "show": true
     },
