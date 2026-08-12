@@ -1,5 +1,5 @@
 window.SITE_DATA = {
-  "updated": "2026-08-11",
+  "updated": "2026-08-12",
   "counts": {
     "intl": 2,
     "dom": 6,
