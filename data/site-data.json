@@ -1,12 +1,81 @@
 {
-  "updated": "2026-11-15",
+  "updated": "2026-11-16",
   "counts": {
     "intl": 2,
-    "dom": 6,
-    "conf": 10,
-    "award": 3
+    "dom": 7,
+    "conf": 13,
+    "award": 4
   },
   "research": [
+    {
+      "title": "Trust, AI literacy, and ethical attitude in human-generative AI interaction: An exploratory study of perceptions and opinion change",
+      "type": "국내학술지",
+      "year": "2026",
+      "detail": "The Journal of Internet Electronic Commerce Research, 26(5), 207–236.",
+      "authors": "Ha, J. E., Lee, J., & Yun, H.",
+      "link": "",
+      "tags": [
+        "KCI",
+        "제1저자"
+      ],
+      "show": true
+    },
+    {
+      "title": "Generative AI utilization competencies for adult learners: A systematic literature review",
+      "type": "국제학회",
+      "year": "2026",
+      "detail": "AECT 2026 · Chicago, USA (Concurrent Session)",
+      "authors": "Ha, J. E., Huh, Y., & Jo, H.",
+      "link": "",
+      "tags": [
+        "Paper"
+      ],
+      "show": true
+    },
+    {
+      "title": "College Students' Use of Generative AI for Learning via Reflective Writing",
+      "type": "저서",
+      "year": "2026",
+      "detail": "In Human Cognitive Agency in AI-Mediated Learning (Ch. 7, pp. 203–232). IGI Global. DOI: 10.4018/979-8-2600-3840-6.ch007",
+      "authors": "Ha, J. E., Huh, Y., & Jo, H.",
+      "link": "https://www.igi-global.com/chapter/college-students-use-of-generative-ai-for-learning-via-reflective-writing/421025",
+      "tags": [],
+      "show": true
+    },
+    {
+      "title": "Outstanding Researcher Award",
+      "type": "수상",
+      "year": "2026",
+      "detail": "NOVETOS 2026",
+      "authors": "",
+      "link": "",
+      "tags": [],
+      "show": true
+    },
+    {
+      "title": "From Framework to Measurement: Generative AI Utilization Competency for Adult Learners",
+      "type": "국제학회",
+      "year": "2026",
+      "detail": "NOVETOS 2026 · Track D: Media & Culture (Outstanding Researcher Award)",
+      "authors": "Ha, J. E.",
+      "link": "",
+      "tags": [
+        "Paper"
+      ],
+      "show": true
+    },
+    {
+      "title": "Development of generative AI utilization competencies for adult learners",
+      "type": "국제학회",
+      "year": "2026",
+      "detail": "AECT 2026 · Chicago, USA (Round Table)",
+      "authors": "Ha, J. E., Huh, Y., & Jo, H.",
+      "link": "",
+      "tags": [
+        "Paper"
+      ],
+      "show": true
+    },
     {
       "title": "제주도내 구직단념청년의 구직활동과정 탐색 질적연구: 청년도전지원사업 참여 청년을 중심으로",
       "type": "국내학술지",
@@ -115,6 +184,16 @@
       "tags": [
         "Paper"
       ],
+      "show": true
+    },
+    {
+      "title": "인재개발의 이슈와 동향 (8장 공저)",
+      "type": "저서",
+      "year": "2024",
+      "detail": "교육과학사 · 정재삼 편 · 8장 집필",
+      "authors": "",
+      "link": "",
+      "tags": [],
       "show": true
     },
     {
@@ -803,6 +882,17 @@
       "show": true
     },
     {
+      "key": "제주관광대 관광AX센터장",
+      "kind": "경력",
+      "order": 1.5,
+      "ko": "관광AX센터장",
+      "en": "Director, Tourism AX Center",
+      "period": "2026~",
+      "desc": "제주관광대학교",
+      "link": "",
+      "show": true
+    },
+    {
       "key": "LinkedIn",
       "kind": "문의링크",
       "order": 2,
@@ -840,7 +930,7 @@
       "kind": "경력",
       "order": 2,
       "ko": "겸임교수",
-      "en": "Adjunct Professor",
+      "en": "Adjunct Assistant Professor",
       "period": "2025~2026",
       "desc": "제주관광대학교",
       "link": "",
